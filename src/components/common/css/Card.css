@@ -1,0 +1,21 @@
+.Card {
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.3);
+    background-color: white;
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    padding: 0;
+    overflow: hidden;
+}
+.Card a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.Card p {
+    margin: 10px;
+}
+.Card img {
+    width: 300px;
+}
